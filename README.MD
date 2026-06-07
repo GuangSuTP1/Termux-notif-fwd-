@@ -1,4 +1,4 @@
-notif-fwd - 跨设备通知转发<a href="https://github.com/GuangSuTP1/Termux-notif-fwd-/blob/main/readme/README-EN.md">English</a>
+<a href="https://github.com/GuangSuTP1/Termux-notif-fwd-/blob/main/readme/README-EN.md">English</a>
 
 notif-fwd - 跨设备通知转发
 一个基于termux的局域网通知转发脚本
