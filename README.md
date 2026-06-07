@@ -52,4 +52,4 @@ pkg install jq termux-api netcat-openbsd nmap xxd net-tools
 
 ## 许可证
 
-MIT（免费商用）https://opensource.org/license/MIT
+MIT（免费商用）https://github.com/GuangSuTP1/Termux-notif-fwd-/blob/main/LICENSE
