@@ -1,3 +1,5 @@
+<a href="https://github.com/GuangSuTP1/Termux-notif-fwd-/blob/main/README.MD">中文</a>
+
 notif-fwd - Cross-Device Notification Forwarding
 
 A Termux-based notification forwarding script over local area network.
