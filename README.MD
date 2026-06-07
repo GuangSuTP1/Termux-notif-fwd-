@@ -1,4 +1,6 @@
-notif-fwd - 跨设备通知转发             <a href="https://github.com/GuangSuTP1/Termux-notif-fwd-/blob/main/readme/README-EN.md">English</a>
+notif-fwd - 跨设备通知转发<a href="https://github.com/GuangSuTP1/Termux-notif-fwd-/blob/main/readme/README-EN.md">English</a>
+
+notif-fwd - 跨设备通知转发
 一个基于termux的局域网通知转发脚本
 
 将手机A的通知自动转发到手机B，纯局域网UDP通信，无需云服务。
